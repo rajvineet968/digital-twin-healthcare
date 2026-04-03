@@ -56,6 +56,8 @@ npm install
 npm start
 ```
 
+---
+
 👨‍💻 Author
 
 Vineet Raj
@@ -67,12 +69,14 @@ Create file:
 .gitignore
 ```
 
+---
+
 Paste:
-node_modules/
-__pycache__/
-*.pyc
-.env
-venv/
+-node_modules/
+-__pycache__/
+-*.pyc
+-.env
+-venv/
 
 ##🔮 Future Work
 -Real-time wearable integration
