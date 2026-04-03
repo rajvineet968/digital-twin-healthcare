@@ -56,6 +56,24 @@ npm install
 npm start
 ```
 
+👨‍💻 Author
+
+Vineet Raj
+---
+
+# 📁 ADD `.gitignore`
+Create file:
+```bash
+.gitignore
+```
+
+Paste:
+node_modules/
+__pycache__/
+*.pyc
+.env
+venv/
+
 ##🔮 Future Work
 -Real-time wearable integration
 -LSTM-based prediction
