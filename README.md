@@ -63,20 +63,20 @@ npm start
 Vineet Raj
 ---
 
-# 📁 ADD `.gitignore`
+##  ADD `.gitignore`
 Create file:
-```bash
 .gitignore
-```
 
 ---
 
-Paste:
+## Paste:
 -node_modules/
 -__pycache__/
 -*.pyc
 -.env
 -venv/
+
+---
 
 ##🔮 Future Work
 -Real-time wearable integration
