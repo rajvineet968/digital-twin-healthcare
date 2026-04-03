@@ -49,19 +49,12 @@ pip install -r requirements.txt
 python -m uvicorn backend.app.main:app --reload
 ```
 
-##Frontend
+## Frontend
 ```bash
 cd frontend
 npm install
 npm start
 ```
-
----
-
-👨‍💻 Author
-
-Vineet Raj
----
 
 ##  ADD `.gitignore`
 Create file:
@@ -70,16 +63,16 @@ Create file:
 ---
 
 ## Paste:
--node_modules/
--__pycache__/
--*.pyc
--.env
--venv/
+- node_modules/
+- __pycache__/
+- *.pyc
+- .env
+- venv/
 
 ---
 
 ##🔮 Future Work
--Real-time wearable integration
--LSTM-based prediction
--Explainable AI (SHAP)
--Cloud deployment
+- Real-time wearable integration
+- LSTM-based prediction
+- Explainable AI (SHAP)
+- Cloud deployment
