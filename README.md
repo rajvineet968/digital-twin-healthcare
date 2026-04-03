@@ -47,3 +47,16 @@ Patient Data → AI Models → Digital Twin → Prediction + Simulation
 ```bash
 pip install -r requirements.txt
 python -m uvicorn backend.app.main:app --reload
+
+###Frontend
+```bash
+cd frontend
+npm install
+npm start
+
+
+###🔮 Future Work
+Real-time wearable integration
+LSTM-based prediction
+Explainable AI (SHAP)
+Cloud deployment
